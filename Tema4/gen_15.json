@@ -1,0 +1,977 @@
+{
+    "scor": 157560,
+    "populatie": {
+        "1101000011": {
+            "valoare": 133,
+            "greutate": 17
+        },
+        "1101100001": {
+            "valoare": 152,
+            "greutate": 24
+        },
+        "1101010111": {
+            "valoare": 159,
+            "greutate": 22
+        },
+        "1001100101": {
+            "valoare": 141,
+            "greutate": 24
+        },
+        "1001100011": {
+            "valoare": 149,
+            "greutate": 22
+        },
+        "1101100111": {
+            "valoare": 206,
+            "greutate": 30
+        },
+        "0101110011": {
+            "valoare": 166,
+            "greutate": 24
+        },
+        "1100010111": {
+            "valoare": 156,
+            "greutate": 20
+        },
+        "0100110011": {
+            "valoare": 163,
+            "greutate": 22
+        },
+        "1101001101": {
+            "valoare": 140,
+            "greutate": 27
+        },
+        "1100100101": {
+            "valoare": 172,
+            "greutate": 26
+        },
+        "0100100111": {
+            "valoare": 183,
+            "greutate": 25
+        },
+        "1000000111": {
+            "valoare": 119,
+            "greutate": 15
+        },
+        "1100100111": {
+            "valoare": 203,
+            "greutate": 28
+        },
+        "0110100110": {
+            "valoare": 148,
+            "greutate": 29
+        },
+        "1000001111": {
+            "valoare": 134,
+            "greutate": 23
+        },
+        "1101000111": {
+            "valoare": 156,
+            "greutate": 21
+        },
+        "1100110011": {
+            "valoare": 183,
+            "greutate": 25
+        },
+        "1101100101": {
+            "valoare": 175,
+            "greutate": 28
+        },
+        "1100110110": {
+            "valoare": 161,
+            "greutate": 23
+        },
+        "1001110110": {
+            "valoare": 130,
+            "greutate": 21
+        },
+        "0100110111": {
+            "valoare": 186,
+            "greutate": 26
+        },
+        "1101100011": {
+            "valoare": 183,
+            "greutate": 26
+        },
+        "1100010101": {
+            "valoare": 125,
+            "greutate": 18
+        },
+        "0100100011": {
+            "valoare": 160,
+            "greutate": 21
+        },
+        "1101111010": {
+            "valoare": 156,
+            "greutate": 29
+        },
+        "0101101010": {
+            "valoare": 133,
+            "greutate": 25
+        },
+        "0000110111": {
+            "valoare": 152,
+            "greutate": 22
+        },
+        "1100110101": {
+            "valoare": 175,
+            "greutate": 27
+        },
+        "1100001110": {
+            "valoare": 123,
+            "greutate": 21
+        },
+        "1000110011": {
+            "valoare": 149,
+            "greutate": 21
+        },
+        "1100110111": {
+            "valoare": 206,
+            "greutate": 29
+        },
+        "1000100101": {
+            "valoare": 138,
+            "greutate": 22
+        },
+        "1100101001": {
+            "valoare": 164,
+            "greutate": 30
+        },
+        "1101110101": {
+            "valoare": 178,
+            "greutate": 29
+        },
+        "0100111110": {
+            "valoare": 156,
+            "greutate": 28
+        },
+        "0101000111": {
+            "valoare": 136,
+            "greutate": 18
+        },
+        "0101010111": {
+            "valoare": 139,
+            "greutate": 19
+        },
+        "0101110111": {
+            "valoare": 189,
+            "greutate": 28
+        },
+        "1010011011": {
+            "valoare": 124,
+            "greutate": 30
+        },
+        "0001100111": {
+            "valoare": 152,
+            "greutate": 23
+        },
+        "1101010110": {
+            "valoare": 114,
+            "greutate": 16
+        },
+        "1001011101": {
+            "valoare": 109,
+            "greutate": 24
+        },
+        "1101011111": {
+            "valoare": 174,
+            "greutate": 30
+        },
+        "1110100010": {
+            "valoare": 145,
+            "greutate": 28
+        },
+        "0110010011": {
+            "valoare": 123,
+            "greutate": 23
+        },
+        "1110000110": {
+            "valoare": 118,
+            "greutate": 23
+        },
+        "0010100001": {
+            "valoare": 105,
+            "greutate": 25
+        },
+        "1000110111": {
+            "valoare": 172,
+            "greutate": 25
+        },
+        "1100101110": {
+            "valoare": 173,
+            "greutate": 30
+        },
+        "1000100011": {
+            "valoare": 146,
+            "greutate": 20
+        },
+        "1001110101": {
+            "valoare": 144,
+            "greutate": 25
+        },
+        "0011010111": {
+            "valoare": 115,
+            "greutate": 25
+        },
+        "0100000101": {
+            "valoare": 102,
+            "greutate": 14
+        },
+        "0100010111": {
+            "valoare": 136,
+            "greutate": 17
+        },
+        "1100100110": {
+            "valoare": 158,
+            "greutate": 22
+        },
+        "1100110010": {
+            "valoare": 138,
+            "greutate": 19
+        },
+        "1101000101": {
+            "valoare": 125,
+            "greutate": 19
+        },
+        "0100000111": {
+            "valoare": 133,
+            "greutate": 16
+        },
+        "1000100111": {
+            "valoare": 169,
+            "greutate": 24
+        },
+        "0101100101": {
+            "valoare": 155,
+            "greutate": 25
+        },
+        "1100011111": {
+            "valoare": 171,
+            "greutate": 28
+        },
+        "1100001111": {
+            "valoare": 168,
+            "greutate": 27
+        },
+        "0100100101": {
+            "valoare": 152,
+            "greutate": 23
+        },
+        "0011100011": {
+            "valoare": 139,
+            "greutate": 29
+        },
+        "0100000011": {
+            "valoare": 110,
+            "greutate": 12
+        },
+        "0101100001": {
+            "valoare": 132,
+            "greutate": 21
+        },
+        "1101110001": {
+            "valoare": 155,
+            "greutate": 25
+        },
+        "1101110110": {
+            "valoare": 164,
+            "greutate": 25
+        },
+        "0100101011": {
+            "valoare": 175,
+            "greutate": 29
+        },
+        "1100100011": {
+            "valoare": 180,
+            "greutate": 24
+        },
+        "1110000111": {
+            "valoare": 163,
+            "greutate": 29
+        },
+        "0101100111": {
+            "valoare": 186,
+            "greutate": 27
+        },
+        "1100111010": {
+            "valoare": 153,
+            "greutate": 27
+        },
+        "1100000110": {
+            "valoare": 108,
+            "greutate": 13
+        },
+        "1100110001": {
+            "valoare": 152,
+            "greutate": 23
+        },
+        "0000110011": {
+            "valoare": 129,
+            "greutate": 18
+        },
+        "0011000101": {
+            "valoare": 81,
+            "greutate": 22
+        },
+        "1101110010": {
+            "valoare": 141,
+            "greutate": 21
+        },
+        "0101111010": {
+            "valoare": 136,
+            "greutate": 26
+        },
+        "0101000101": {
+            "valoare": 105,
+            "greutate": 16
+        },
+        "0101001111": {
+            "valoare": 151,
+            "greutate": 26
+        },
+        "1000001011": {
+            "valoare": 111,
+            "greutate": 19
+        },
+        "1110000101": {
+            "valoare": 132,
+            "greutate": 27
+        },
+        "1101110011": {
+            "valoare": 186,
+            "greutate": 27
+        },
+        "1101100110": {
+            "valoare": 161,
+            "greutate": 24
+        },
+        "1100010011": {
+            "valoare": 133,
+            "greutate": 16
+        },
+        "1001010111": {
+            "valoare": 125,
+            "greutate": 18
+        },
+        "0000000111": {
+            "valoare": 99,
+            "greutate": 12
+        },
+        "1001110111": {
+            "valoare": 175,
+            "greutate": 27
+        },
+        "0100110001": {
+            "valoare": 132,
+            "greutate": 20
+        },
+        "1100000111": {
+            "valoare": 153,
+            "greutate": 19
+        },
+        "1100000011": {
+            "valoare": 130,
+            "greutate": 15
+        },
+        "0100010101": {
+            "valoare": 105,
+            "greutate": 15
+        },
+        "1000101011": {
+            "valoare": 161,
+            "greutate": 28
+        },
+        "0000101111": {
+            "valoare": 164,
+            "greutate": 29
+        },
+        "1100010110": {
+            "valoare": 111,
+            "greutate": 14
+        },
+        "0100110110": {
+            "valoare": 141,
+            "greutate": 20
+        },
+        "1111010110": {
+            "valoare": 124,
+            "greutate": 26
+        },
+        "0101110101": {
+            "valoare": 158,
+            "greutate": 26
+        },
+        "0001101011": {
+            "valoare": 144,
+            "greutate": 27
+        },
+        "0100111010": {
+            "valoare": 133,
+            "greutate": 24
+        },
+        "0000100111": {
+            "valoare": 149,
+            "greutate": 21
+        },
+        "0101111001": {
+            "valoare": 150,
+            "greutate": 30
+        },
+        "0110000011": {
+            "valoare": 120,
+            "greutate": 22
+        },
+        "1001000111": {
+            "valoare": 122,
+            "greutate": 17
+        },
+        "0100100110": {
+            "valoare": 138,
+            "greutate": 19
+        },
+        "0110000101": {
+            "valoare": 112,
+            "greutate": 24
+        },
+        "1101110000": {
+            "valoare": 110,
+            "greutate": 19
+        },
+        "1001100111": {
+            "valoare": 172,
+            "greutate": 26
+        },
+        "0000100011": {
+            "valoare": 126,
+            "greutate": 17
+        },
+        "0100111001": {
+            "valoare": 147,
+            "greutate": 28
+        },
+        "0110010111": {
+            "valoare": 146,
+            "greutate": 27
+        },
+        "0100111011": {
+            "valoare": 178,
+            "greutate": 30
+        },
+        "1000001101": {
+            "valoare": 103,
+            "greutate": 21
+        },
+        "0100101001": {
+            "valoare": 144,
+            "greutate": 27
+        },
+        "1010100110": {
+            "valoare": 134,
+            "greutate": 28
+        },
+        "1110110010": {
+            "valoare": 148,
+            "greutate": 29
+        },
+        "0011100110": {
+            "valoare": 117,
+            "greutate": 27
+        },
+        "1101001111": {
+            "valoare": 171,
+            "greutate": 29
+        },
+        "0000111111": {
+            "valoare": 167,
+            "greutate": 30
+        },
+        "0101110110": {
+            "valoare": 144,
+            "greutate": 22
+        },
+        "0101110100": {
+            "valoare": 113,
+            "greutate": 20
+        },
+        "1100001101": {
+            "valoare": 137,
+            "greutate": 25
+        },
+        "1100111000": {
+            "valoare": 122,
+            "greutate": 25
+        },
+        "1100101100": {
+            "valoare": 142,
+            "greutate": 28
+        },
+        "1100100001": {
+            "valoare": 149,
+            "greutate": 22
+        },
+        "0101011111": {
+            "valoare": 154,
+            "greutate": 27
+        },
+        "1100100100": {
+            "valoare": 127,
+            "greutate": 20
+        },
+        "1000110101": {
+            "valoare": 141,
+            "greutate": 23
+        },
+        "0000101011": {
+            "valoare": 141,
+            "greutate": 25
+        },
+        "1101001110": {
+            "valoare": 126,
+            "greutate": 23
+        },
+        "0100001111": {
+            "valoare": 148,
+            "greutate": 24
+        },
+        "0010001111": {
+            "valoare": 124,
+            "greutate": 30
+        },
+        "1101010101": {
+            "valoare": 128,
+            "greutate": 20
+        },
+        "0101100011": {
+            "valoare": 163,
+            "greutate": 23
+        },
+        "0100011011": {
+            "valoare": 128,
+            "greutate": 21
+        },
+        "0000110101": {
+            "valoare": 121,
+            "greutate": 20
+        },
+        "1101100010": {
+            "valoare": 138,
+            "greutate": 20
+        },
+        "0001110011": {
+            "valoare": 132,
+            "greutate": 20
+        },
+        "0100110101": {
+            "valoare": 155,
+            "greutate": 24
+        },
+        "1110100100": {
+            "valoare": 137,
+            "greutate": 30
+        },
+        "1010000111": {
+            "valoare": 129,
+            "greutate": 25
+        },
+        "0010100101": {
+            "valoare": 128,
+            "greutate": 29
+        },
+        "1001110011": {
+            "valoare": 152,
+            "greutate": 23
+        },
+        "1100000101": {
+            "valoare": 122,
+            "greutate": 17
+        },
+        "0111000111": {
+            "valoare": 146,
+            "greutate": 28
+        },
+        "1101000001": {
+            "valoare": 102,
+            "greutate": 15
+        },
+        "0111010011": {
+            "valoare": 126,
+            "greutate": 25
+        },
+        "1111100010": {
+            "valoare": 148,
+            "greutate": 30
+        },
+        "0111100010": {
+            "valoare": 128,
+            "greutate": 27
+        },
+        "0110110100": {
+            "valoare": 120,
+            "greutate": 28
+        },
+        "0101010101": {
+            "valoare": 108,
+            "greutate": 17
+        },
+        "1101011011": {
+            "valoare": 151,
+            "greutate": 26
+        },
+        "1100100010": {
+            "valoare": 135,
+            "greutate": 18
+        },
+        "1000011111": {
+            "valoare": 137,
+            "greutate": 24
+        },
+        "1011000111": {
+            "valoare": 132,
+            "greutate": 27
+        },
+        "1110010111": {
+            "valoare": 166,
+            "greutate": 30
+        },
+        "1100011001": {
+            "valoare": 117,
+            "greutate": 22
+        },
+        "1110010011": {
+            "valoare": 143,
+            "greutate": 26
+        },
+        "1001101011": {
+            "valoare": 164,
+            "greutate": 30
+        },
+        "0000110110": {
+            "valoare": 107,
+            "greutate": 16
+        },
+        "0101100110": {
+            "valoare": 141,
+            "greutate": 21
+        },
+        "1010100011": {
+            "valoare": 156,
+            "greutate": 30
+        },
+        "1100011110": {
+            "valoare": 126,
+            "greutate": 22
+        },
+        "0100100001": {
+            "valoare": 129,
+            "greutate": 19
+        },
+        "0101110010": {
+            "valoare": 121,
+            "greutate": 18
+        },
+        "1001001111": {
+            "valoare": 137,
+            "greutate": 25
+        },
+        "0100010011": {
+            "valoare": 113,
+            "greutate": 13
+        },
+        "0011100001": {
+            "valoare": 108,
+            "greutate": 27
+        },
+        "1111000011": {
+            "valoare": 143,
+            "greutate": 27
+        },
+        "1000010111": {
+            "valoare": 122,
+            "greutate": 16
+        },
+        "0100011111": {
+            "valoare": 151,
+            "greutate": 25
+        },
+        "1100110100": {
+            "valoare": 130,
+            "greutate": 21
+        },
+        "0001110101": {
+            "valoare": 124,
+            "greutate": 22
+        },
+        "1111100000": {
+            "valoare": 117,
+            "greutate": 28
+        },
+        "1001100110": {
+            "valoare": 127,
+            "greutate": 20
+        },
+        "1000110110": {
+            "valoare": 127,
+            "greutate": 19
+        },
+        "1101000110": {
+            "valoare": 111,
+            "greutate": 15
+        },
+        "1000101100": {
+            "valoare": 108,
+            "greutate": 24
+        },
+        "1010110110": {
+            "valoare": 137,
+            "greutate": 29
+        },
+        "1101100100": {
+            "valoare": 130,
+            "greutate": 22
+        },
+        "0100110100": {
+            "valoare": 110,
+            "greutate": 18
+        },
+        "0000101101": {
+            "valoare": 133,
+            "greutate": 27
+        },
+        "0101011101": {
+            "valoare": 123,
+            "greutate": 25
+        },
+        "0001110111": {
+            "valoare": 155,
+            "greutate": 24
+        },
+        "1000000011": {
+            "valoare": 96,
+            "greutate": 11
+        },
+        "1101001011": {
+            "valoare": 148,
+            "greutate": 25
+        },
+        "1100011101": {
+            "valoare": 140,
+            "greutate": 26
+        },
+        "1100010010": {
+            "valoare": 88,
+            "greutate": 10
+        },
+        "0101101001": {
+            "valoare": 147,
+            "greutate": 29
+        },
+        "0100101110": {
+            "valoare": 153,
+            "greutate": 27
+        },
+        "0000001111": {
+            "valoare": 114,
+            "greutate": 20
+        },
+        "0101111110": {
+            "valoare": 159,
+            "greutate": 30
+        },
+        "0100010110": {
+            "valoare": 91,
+            "greutate": 11
+        },
+        "0110100100": {
+            "valoare": 117,
+            "greutate": 27
+        },
+        "0100100100": {
+            "valoare": 107,
+            "greutate": 17
+        },
+        "1110000011": {
+            "valoare": 140,
+            "greutate": 25
+        },
+        "0110100001": {
+            "valoare": 139,
+            "greutate": 29
+        },
+        "1100101010": {
+            "valoare": 150,
+            "greutate": 26
+        },
+        "1000111001": {
+            "valoare": 133,
+            "greutate": 27
+        },
+        "0000111101": {
+            "valoare": 136,
+            "greutate": 28
+        },
+        "0110000111": {
+            "valoare": 143,
+            "greutate": 26
+        },
+        "0101000011": {
+            "valoare": 113,
+            "greutate": 14
+        },
+        "1001111010": {
+            "valoare": 122,
+            "greutate": 25
+        },
+        "0000111011": {
+            "valoare": 144,
+            "greutate": 26
+        },
+        "0000101110": {
+            "valoare": 119,
+            "greutate": 23
+        },
+        "1101100000": {
+            "valoare": 107,
+            "greutate": 18
+        },
+        "0001010111": {
+            "valoare": 105,
+            "greutate": 15
+        },
+        "0000011111": {
+            "valoare": 117,
+            "greutate": 21
+        },
+        "1101101010": {
+            "valoare": 153,
+            "greutate": 28
+        },
+        "1111110000": {
+            "valoare": 120,
+            "greutate": 29
+        },
+        "0001111011": {
+            "valoare": 147,
+            "greutate": 28
+        },
+        "0101001101": {
+            "valoare": 120,
+            "greutate": 24
+        },
+        "1001100001": {
+            "valoare": 118,
+            "greutate": 20
+        },
+        "1011100001": {
+            "valoare": 128,
+            "greutate": 30
+        },
+        "1100101000": {
+            "valoare": 119,
+            "greutate": 24
+        },
+        "1000111011": {
+            "valoare": 164,
+            "greutate": 29
+        },
+        "1001101001": {
+            "valoare": 133,
+            "greutate": 28
+        },
+        "0010101010": {
+            "valoare": 106,
+            "greutate": 29
+        },
+        "0001110001": {
+            "valoare": 101,
+            "greutate": 18
+        },
+        "1100100000": {
+            "valoare": 104,
+            "greutate": 16
+        },
+        "1010100001": {
+            "valoare": 125,
+            "greutate": 28
+        },
+        "1011100110": {
+            "valoare": 137,
+            "greutate": 30
+        },
+        "1100111100": {
+            "valoare": 145,
+            "greutate": 29
+        },
+        "0100101100": {
+            "valoare": 122,
+            "greutate": 25
+        },
+        "1000101010": {
+            "valoare": 116,
+            "greutate": 22
+        },
+        "0010001110": {
+            "valoare": 79,
+            "greutate": 24
+        },
+        "0101010011": {
+            "valoare": 116,
+            "greutate": 15
+        },
+        "1000101001": {
+            "valoare": 130,
+            "greutate": 26
+        },
+        "1000100001": {
+            "valoare": 115,
+            "greutate": 18
+        },
+        "0100100010": {
+            "valoare": 115,
+            "greutate": 15
+        },
+        "1101010011": {
+            "valoare": 136,
+            "greutate": 18
+        },
+        "1101000010": {
+            "valoare": 88,
+            "greutate": 11
+        },
+        "0000100001": {
+            "valoare": 95,
+            "greutate": 15
+        },
+        "0110110001": {
+            "valoare": 142,
+            "greutate": 30
+        },
+        "1111010101": {
+            "valoare": 138,
+            "greutate": 30
+        },
+        "1000101101": {
+            "valoare": 153,
+            "greutate": 30
+        },
+        "1001010101": {
+            "valoare": 94,
+            "greutate": 16
+        },
+        "0111100100": {
+            "valoare": 120,
+            "greutate": 29
+        },
+        "0111000110": {
+            "valoare": 101,
+            "greutate": 22
+        },
+        "1100011011": {
+            "valoare": 148,
+            "greutate": 24
+        },
+        "0000100101": {
+            "valoare": 118,
+            "greutate": 19
+        }
+    }
+}
